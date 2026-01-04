@@ -1,0 +1,20 @@
+{
+    "type": "java",
+    "name": "Launch YourApp",
+    "request": "launch",
+    "mainClass": "Main",
+    "projectName": "Quote Game",
+    "env": {
+        "DISPLAY": ":0" 
+    },
+    "vmArgs": "-Djava.awt.headless=false",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ui.Main",
+            "projectName": "Quote-Game_ed3d60b0"
+        }
+    ]
+}
