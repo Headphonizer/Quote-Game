@@ -1,0 +1,25 @@
+{
+    "category": "Harry Potter",
+    "authors": [
+        {"author": "Hermione Granger"},
+        {"author": "George Weasley"},
+        {"author": "Remus Lupin"},
+        {"author": "Evan"},
+        {"author": "Ron Weasley"},
+        {"author": "Gilderoy Lockhart"},
+        {"author": "Luna Lovegood"},
+        {"author": "Harry Potter"},
+        {"author": "Draco Malfoy"},
+        {"author": "Dobby"},
+        {"author": "Minerva McGonagall"},
+        {"author": "Rubeus Hagrid"},
+        {"author": "Voldemort"},
+        {"author": "Molly Weasley"},
+        {"author": "I don't know"},
+        {"author": "Severus Snape"},
+        {"author": "Dumbledore"},
+        {"author": "Sirius Black"},
+        {"author": "Ginny Weasley"},
+        {"author": "Mr. Ollivander"}
+    ]
+}

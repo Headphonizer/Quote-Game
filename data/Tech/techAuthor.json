@@ -1,0 +1,28 @@
+{
+    "category": "tech",
+    "authors": [
+        {"author": "Steve Wozniak"},
+        {"author": "Larry Ellison"},
+        {"author": "Enzo Ferrari"},
+        {"author": "Ferruccio Lamborghini"},
+        {"author": "Henry Ford"},
+        {"author": "Oppenheimer"},
+        {"author": "Elon Musk"},
+        {"author": "Alan Turing"},
+        {"author": "Ada Lovelace"},
+        {"author": "Sam Altman"},
+        {"author": "James Dyson"},
+        {"author": "Thomas Edison"},
+        {"author": "Marc Andreessen"},
+        {"author": "Palmer Luckey"},
+        {"author": "David Sacks"},
+        {"author": "Chamath Palihapitiya"},
+        {"author": "Nikola Tesla"},
+        {"author": "Karl Benz"},
+        {"author": "Evan"},
+        {"author": "Richard Branson"},
+        {"author": "Mark Zuckerberg"},
+        {"author": "Henry Ford"},
+        {"author": "Jensen Huang"}
+    ]
+}

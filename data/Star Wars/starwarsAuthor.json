@@ -1,0 +1,21 @@
+{
+    "category": "Star Wars",
+    "authors": [
+        {"author": "Obi-Wan Kenobi"},
+        {"author": "Chirrut Imwe"},
+        {"author": "Qui-Gon Jinn"},
+        {"author": "Darth Vader"},
+        {"author": "Jyn Erso"},
+        {"author": "I don't know"},
+        {"author": "Yoda"},
+        {"author": "Evan"},
+        {"author": "Anakin Skywalker"},
+        {"author": "Padme Amidala"},
+        {"author": "Princess Leia"},
+        {"author": "Han Solo"},
+        {"author": "Luke Skywalker"},
+        {"author": "Orson Krennic"},
+        {"author": "C-3PO"},
+        {"author": "Cassian Andor"}
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "category": "DC",
+    "quotes": [
+        {
+            "quote": "I am Batman",
+            "answer": "Bruce Wayne"
+        },
+        {
+            "quote": "I'm here to fight for truth or justice",
+            "answer": "SuperMan"
+        },
+        {
+            "quote": "I'm rich",
+            "answer": "Bruce Wayne"
+        }
+    ]
+}
